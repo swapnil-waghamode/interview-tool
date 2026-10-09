@@ -2,8 +2,6 @@
 
 A simple Streamlit app that simulates a job interview. You enter your background and the role you're targeting, an AI "HR executive" interviews you, and at the end you get a score and written feedback.
 
-**Live demo:** https://interview-tool-akbhi69wdwbxvg2bbchrry.streamlit.app/
-
 ## How It Works
 
 The app moves through three stages, tracked with Streamlit session state:
